@@ -1,5 +1,5 @@
 def speak_to_grandma
-  phrase = " ".upcase
+  phrase = .upcase
 if
 
 elsif
