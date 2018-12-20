@@ -1,3 +1,5 @@
+speak_to_grandma = .upcase
+
 def speak_to_grandma
   
 if
