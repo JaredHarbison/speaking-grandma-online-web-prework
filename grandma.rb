@@ -1,3 +1,3 @@
 if phrase = .upcase
-  "NO, NOT SINCE 1938!"
+  puts "NO, NOT SINCE 1938!"
 end
