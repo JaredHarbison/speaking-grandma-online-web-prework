@@ -1,4 +1,4 @@
 def speak_to_grandma(phrase)
-if phrase == "I LOVE YOU GRANDMA!"
-  puts "I LOVE YOU TOO PUMPKIN!"
+  if phrase == "I LOVE YOU GRANDMA!"
+   "I LOVE YOU TOO PUMPKIN!"
 end
