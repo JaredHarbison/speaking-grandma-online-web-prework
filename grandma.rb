@@ -1,16 +1,3 @@
-speak_to_grandma = .upcase
-
-def speak_to_grandma
-  
-if
-
-elsif
-
-else
-  
-end
-
-
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
