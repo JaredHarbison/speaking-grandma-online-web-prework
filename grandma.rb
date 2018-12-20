@@ -1,3 +1,8 @@
+def speak_to_grandma(name, language)
+  puts "Hello, #{name}. We heard you are a great #{language} programmer."
+end
+
+
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
